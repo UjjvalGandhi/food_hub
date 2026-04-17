@@ -1,0 +1,13 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#F4EFE6"/>
+  <rect x="80" y="80" width="1040" height="640" rx="48" fill="#FFF8EF"/>
+  <circle cx="600" cy="400" r="180" fill="#F6DFC2"/>
+  <circle cx="600" cy="400" r="126" fill="#FFFFFF"/>
+  <path d="M524 348C524 319.281 547.281 296 576 296H624C652.719 296 676 319.281 676 348V356H524V348Z" fill="#E48157"/>
+  <rect x="500" y="356" width="200" height="36" rx="18" fill="#9E6A43"/>
+  <rect x="486" y="392" width="228" height="34" rx="17" fill="#7FB069"/>
+  <rect x="508" y="426" width="184" height="32" rx="16" fill="#F2C14E"/>
+  <rect x="530" y="458" width="140" height="28" rx="14" fill="#E48157"/>
+  <path d="M418 548C463.333 495.333 524 469 600 469C676 469 736.667 495.333 782 548" stroke="#D2B48C" stroke-width="28" stroke-linecap="round"/>
+  <text x="600" y="618" text-anchor="middle" fill="#6B5B4D" font-family="Arial, sans-serif" font-size="42" font-weight="700">Fresh food image unavailable</text>
+</svg>
